@@ -1,0 +1,338 @@
+
+  [
+      {
+        "sector": "Manufacturing",
+        "detail": [
+          {
+            
+            "dept": "Construction material"
+          },
+          {
+           
+            "dept": "Electronics and Optics"
+          }
+        ]
+      },
+      {
+        
+        "sector": "Food and Baverage",
+        "detail": [
+          {
+            "dept": "Bakery & Confectionery Products"
+    
+          },
+          {
+            "dept": "Beverages"
+           
+          },
+          {
+            "dept": "Fish & Fish products"
+            
+          },
+          {
+            "dept": "Milk & dairy products"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Others",
+        "detail": [
+          {
+            "dept": "Sweets & Snack food"
+            
+          }
+        ]
+      },
+      {
+        
+        "sector": "Furniture",
+        "detail": [
+          {
+            "dept": "Bathroom / Sauna"
+            
+          },
+          {
+            "dept": "Bedroom"
+           
+          },
+          {
+            "dept": " Children's room"
+           
+          },
+          {
+            "dept": "Kitchen"
+            
+          },
+          {
+            "dept": "Living room"
+            
+          },
+          {
+            "dept": "Office"
+          },
+          {
+            "dept": "Other (furniture)"
+           
+          },
+          {
+            "dept": "Outdoor"
+           
+          },
+          {
+            "dept": "Project Furniture"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Machinery",
+        "detail": [
+          {
+            "dept": "Machinery Components"
+          },
+          {
+            "dept": "Machinery equipment tools"
+            
+          },
+          {
+            "dept": "Manifacture of Machinery"
+            
+          }
+        ]
+      },
+      {
+        
+        "sector": "Maritime",
+        "detail": [
+          {
+            "dept": "Aluminium and Steel workload"
+           
+          },
+          {
+            "dept": "Boat / Yacht building"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Metal Structure"
+      },
+      {
+        
+        "sector": "Other",
+        "detail": [
+          {
+            "dept": "Repair and maintenance service"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Metaworking",
+        "detail": [
+          {
+            "dept": "Construction of metal structure"
+            
+          },
+          {
+            "dept": "Houses and building"
+            
+          },
+          {
+            "dept": "Metal products"
+           
+          },
+          {
+            "dept": "Metal work"
+            
+          },
+          {
+            "dept": "CNC - machinery"
+            
+          },
+          {
+            "dept": "Forgings, Fasteners"
+           
+          },
+          {
+            "dept": "Gas, Plasma, Laser cutting"
+            
+          },
+          {
+            "dept": "MIG, TIG, Aluminium welding"
+          
+          }
+        ]
+      },
+      {
+        
+        "sector": "Plastic and Rubber",
+        "detail": [
+          {
+            "dept": "Plastic goods"
+           
+          },
+          {
+            "dept": "Plastic processing Technology"
+            
+          },
+          {
+            "dept": "Blowing"
+           
+          },
+          {
+            "dept": "Moulding"
+           
+          },
+          {
+            "dept": "Plastics welding and processing"
+           
+          },
+          {
+            "dept": "Plastic profiles"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Printing",
+        "detail": [
+          {
+            "dept": "Advertising"
+           
+          },
+          {
+            "dept": "Book/Periodicals printing"
+           
+          },
+          {
+            "dept": "Labelling and package printing"
+            
+          }
+        ]
+      },
+      {
+       
+        "sector": "Textile and Clothing",
+        "detail": [
+          {
+            "dept": "Clothing"
+           
+          },
+          {
+            "dept": "Textile"
+            
+          }
+        ]
+      },
+      {
+        
+        "sector": "Wood",
+        "detail": [
+          {
+            "dept": "Other (wood)"
+           
+          },
+          {
+            "dept": "Wooden building materials"
+            
+          },
+          {
+            "dept": "wooden houses"
+           
+          }
+        ]
+      },
+      {
+      
+        "sector": "Other",
+        "detail": [
+          {
+            "dept": "creative industries"
+            
+          },
+          {
+            "dept": "Energy technology"
+            
+          },
+          {
+            "dept": "Environment"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Service",
+        "detail": [
+          {
+            "dept": "Business services"
+           
+          }
+        ]
+      },
+      {
+        
+        "sector": "Engineering"
+      },
+      {
+        
+        "sector": "Information Technology and Telecommunication",
+        "detail": [
+          {
+            "dept": "Data processing, web portals, E-marketing"
+          
+          },
+          {
+            "dept": "Programming, consultancy"
+            
+          },
+          {
+            "dept": "Software, Hardware"
+            
+          },
+          {
+            "dept": "Telecommunications"
+            
+          }
+        ]
+      },
+      {
+        
+        "sector": "Tourism"
+      },
+      {
+        
+        "sector": "Translation services"
+      },
+      {
+        
+        "sector": "Transport and Logistics",
+        "detail": [
+          {
+            "dept": "Air"
+            
+          },
+          {
+            "dept": "Rail"
+            
+          },
+          {
+            "dept": "Road"
+            
+          },
+          {
+            "dept": "Water"
+           
+          }
+        ]
+      }
+    ]
+  
+
