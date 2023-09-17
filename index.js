@@ -17,7 +17,7 @@ db_connect();
 
 //middlewares
 app.use(cors({
-    origin: ['http://localhost:5000'],
+    origin: ['http://localhost:3000'],
     method: ["POST", "GET", "PUT"],
     credentials: true
 }));
