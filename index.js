@@ -17,7 +17,9 @@ db_connect();
 
 //middlewares
 app.use(cors({
-    origin: 'https://task-frontend-app.vercel.app/'
+    origin: ['http://localhost:5000'],
+    method: ["POST", "GET", "PUT"],
+    credentials: true
 }));
 app.use(express.json());
 app.use(bodyParser.urlencoded({extended: false}));
